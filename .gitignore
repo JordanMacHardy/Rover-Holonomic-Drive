@@ -1,0 +1,13 @@
+ # Userfile
+*.cyprj.*
+*.cywrk.*
+
+# Miscellaneous files
+*.html
+*.pdf
+*.rpt
+
+
+# Folders
+*CoretexM3/
+*Generated_Source/
